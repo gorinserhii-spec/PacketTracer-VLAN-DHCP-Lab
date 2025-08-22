@@ -59,6 +59,6 @@ using VLANs, Router-on-a-Stick, DHCP, and static routing. It highlights the prin
 efficient routing, and automated IP management for a secure and functional network environment.
 
 ---
-Author: Serhii Gorin
-Date: 10.08.2025
+# Author: Serhii Gorin 
+# Date: 10.08.2025, fixed - 23.08.2025
 
