@@ -26,8 +26,8 @@ networking concepts.
 ------------
 - VLANs (Virtual Local Area Networks): The network is segmented into VLAN10 and VLAN20 to isolate traffic,
   enhance security, and reduce broadcast traffic.
-  - VLAN 10: Assigned to PC1 in the main branch and PC3 in the branch office.
-  - VLAN 20: Assigned to PC2 in the main branch.
+  + VLAN 10: Assigned to PC1 in the main branch and PC3 in the branch office.
+  + VLAN 20: Assigned to PC2 in the main branch.
 - Router-on-a-Stick: On Router1, a single physical interface (GigabitEthernet0/0/0) is configured with logical
   sub-interfaces to route traffic between VLAN10 and VLAN20, optimizing resource use without requiring multiple physical ports.
 - Inter-Router Communication: The two routers are connected via a dedicated link (GigabitEthernet).
