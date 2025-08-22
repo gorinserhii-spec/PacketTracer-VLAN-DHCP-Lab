@@ -60,5 +60,4 @@ efficient routing, and automated IP management for a secure and functional netwo
 
 ---
 # Author: Serhii Gorin 
-# Date: 10.08.2025, fixed - 23.08.2025
-
+# Date: 10.08.2025
