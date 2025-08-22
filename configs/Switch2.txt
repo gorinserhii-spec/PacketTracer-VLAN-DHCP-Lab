@@ -2,16 +2,16 @@
   conf t
   hostname Switch2
 
-! Создание VLAN
+! Creating a VLAN
   vlan 10
   name VLAN10_BRANCH
 
-! Настройка порта для PC3
+! Setting up a port for PC3
   int fa0/1
   switchport mode access
   switchport access vlan 10
 
-! Настройка транкового порта для Router2
+! Setting up a trunk port for Router2
   int fa0/24
   switchport mode trunk
   switchport trunk allowed vlan 10
