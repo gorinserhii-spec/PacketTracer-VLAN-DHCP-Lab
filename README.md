@@ -61,3 +61,7 @@ efficient routing, and automated IP management for a secure and functional netwo
 ---
 # Author: Serhii Gorin 
 # Date: 10.08.2025
+
+---
+## ⚠️ Disclaimer
+This is an educational project for portfolio purposes. Cisco Packet Tracer and all associated logos are the property of Cisco Systems, Inc.
